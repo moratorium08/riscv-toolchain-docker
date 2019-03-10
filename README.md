@@ -2,7 +2,7 @@
 
 This repository is a Dockerfile for building 32-bit version of [riscv-toolchain](https://github.com/riscv/riscv-gnu-toolchain).
 
-## rv32gc Image [moratorium08/moratorium08/riscv-toolchain:rv32gc](https://cloud.docker.com/u/moratorium08/repository/docker/moratorium08/riscv-toolchain)
+## rv32gc Image [moratorium08/moratorium08/riscv-toolchain:rv32gc](https://hub.docker.com/r/moratorium08/riscv-toolchain)
 
 This image includes riscv-toolchain binaries built for rv32gc(32 bit version). Base image is ubuntu:18:04. Image size is 1.62GB.
 
