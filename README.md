@@ -37,6 +37,6 @@ When you want to use them to your programs, attach your directory which contains
 
 
 ```
-$ sudo docker run -it -w $PWD -v $PWD:$PWD moratorium08/riscv-toolchain:rv32gc
+$ docker run -it -w $PWD -v $PWD:$PWD moratorium08/riscv-toolchain:rv32gc
 ```
 
