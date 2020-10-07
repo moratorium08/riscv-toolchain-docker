@@ -1,6 +1,6 @@
 # riscv-toolchain-docker
 
-This repository is a Dockerfile for building 32-bit version of [riscv-toolchain](https://github.com/riscv/riscv-gnu-toolchain).
+This repository is a Dockerfile for building <strong>32-bit version</strong> of [riscv-toolchain](https://github.com/riscv/riscv-gnu-toolchain).
 
 ## rv32gc Image [moratorium08/moratorium08/riscv-toolchain:rv32gc](https://hub.docker.com/r/moratorium08/riscv-toolchain)
 
